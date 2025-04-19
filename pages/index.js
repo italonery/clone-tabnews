@@ -1,10 +1,5 @@
 function Home() {
-  return (
-    <h1>
-      Se voccê vai entregar o melhor TCC do muundo, dê uma risadinha... TE AMO
-      ❤️
-    </h1>
-  );
+  return <h1>Hello World! 🌎</h1>;
 }
 
 export default Home;
